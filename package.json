@@ -1,0 +1,15 @@
+{
+  "name": "secureseva",
+  "version": "1.0.0",
+  "description": "Har digital entry ke liye, ek bharosemand seva.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "Backend"
+  ],
+  "author": "Sandeep Patel",
+  "license": "ISC"
+}
